@@ -4,7 +4,7 @@ Library    FakerLibrary
 Library    JSONLibrary
 Library    String
 
-** Variables ***
+*** Variables ***
 ${URL}    https://**********
 ${Browser}    Edge
 ${login}    id:loginform-username
